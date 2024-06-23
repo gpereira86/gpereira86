@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Felipe%20Almeida&fontSize=90](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Glauco%20Pereira&reversal=false&textBg=false&fontColor=e4e4e4&fontAlign=50&stroke=fff&strokeWidth=2&rotate=0&descAlign=55&descAlignY=50))
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Glauco%20Pereira&reversal=false&textBg=false&fontColor=e4e4e4&fontAlign=50&stroke=fff&strokeWidth=2&rotate=0&descAlign=55&descAlignY=50)
 
 
   
