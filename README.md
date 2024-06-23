@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=Glauco%20Pereira&reversal=false&textBg=false&fontColor=e4e4e4&fontAlign=50&stroke=fff&strokeWidth=2&rotate=0&descAlign=0&descAlignY=0&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=Glauco%20Pereira&reversal=false&textBg=false&fontColor=fff&fontAlign=50&stroke=e4e4e4&strokeWidth=0&rotate=0&descAlign=0&descAlignY=0&fontAlignY=55)
 
 
   
