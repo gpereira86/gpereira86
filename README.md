@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=212121&text=Glauco%20Pereira&reversal=false&textBg=false&fontColor=fff&fontAlign=50&stroke=e4e4e4&strokeWidth=0&rotate=0&descAlign=0&descAlignY=0&fontAlignY=55)
 
-Olá :wave:! Eu sou Glauco Pereira :person_bald:.
+Olá :wave:! Eu sou Glauco Pereira :person_bald:
 
 Sou formado em Administração de Empresas 🎓 e estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) 💻.
 
@@ -36,38 +36,14 @@ Estou comprometido em aplicar minhas habilidades analíticas e minha paixão pel
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+### GitHub Stats ⚡:
+
 <div>
-<a href="https://github.com/gpereira86">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gpereira86">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpereira86&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gpereira86&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+### GitHub Trophies :trophy::
 
-
-  <h4>Estudante de desenvolvimento - BackEnd | FullStack</h4>
-
-  <p id="linkExterno" align="left" style="background:yellow">
-      <a href="https://glaucopereira.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Portfólio-05122A?style=flat&logo=windowsterminal" alt="Portfolio"/>
-      </a>
-      <a href="https://linkedin.com/in/glaucopereira" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-      </a>
-     <!--<a href="https://instagram.com/tgmarinho" target="_blank">
-     <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=instagram" alt="instagram"/>
-     </a>
-     <a href="https://youtube.com/tgmarinho" target="_blank">
-     <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=youtube" alt="youtube"/>
-     </a>-->
-   </p>
-   
-   👋🏻 Em desenvolvimento
-   🚀 😃
-   
-
-
- 
-   
-
-      
- 
+![](https://github-profile-trophy.vercel.app/?username=gpereira86&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
