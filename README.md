@@ -22,20 +22,14 @@
        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=youtube" alt="youtube"/>
        </a>-->
    </p>
-
-
    👋🏻 Em desenvolvimento
-     
-     🚀 😃
-
- 
-
-  <script>
-  document.getElementById('linkExterno').addEventListener('click', function(event) {
-      event.preventDefault();
-      window.open(this.getAttribute('href'), '_blank');
-  });
-  </script>
+   🚀 😃
+   <script>
+     document.getElementById('linkExterno').addEventListener('click', function(event) {
+       event.preventDefault();
+       window.open(this.getAttribute('href'), '_blank');
+       });
+   </script>
 </body>
 </html>
 
