@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=Glauco%20Pereira&reversal=false&textBg=false&fontColor=fff&fontAlign=50&stroke=e4e4e4&strokeWidth=0&rotate=0&descAlign=0&descAlignY=0&fontAlignY=55)
 
+### Entre em contato comigo! 📭
+<div>
+  <a href="https://www.linkedin.com/in/glaucopereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></  a>
+  <a href="https://www.twitch.tv/gpereirajpa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
 
-  
-  <h3> Glauco Pereira 💻 </h3>
   <h4>Estudante de desenvolvimento - BackEnd | FullStack</h4>
 
   <p id="linkExterno" align="left" style="background:yellow">
