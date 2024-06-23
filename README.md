@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=Glauco%20Pereira&reversal=false&textBg=false&fontColor=fff&fontAlign=50&stroke=e4e4e4&strokeWidth=0&rotate=0&descAlign=0&descAlignY=0&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=363636&text=Glauco%20Pereira&reversal=false&textBg=false&fontColor=fff&fontAlign=50&stroke=e4e4e4&strokeWidth=0&rotate=0&descAlign=0&descAlignY=0&fontAlignY=55)
+
+
 
 ### Entre em contato comigo! 📭
 <div>
