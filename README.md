@@ -4,12 +4,9 @@
    
  <p align="left" style="background:yellow">
       <a href="https://glaucopereira.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-GlaucPereira-05122A?style=flat&logo=codepen" alt="Portfolio"/>
+        <img align="center" src="https://img.shields.io/badge/-Glauco_Pereira-05122A?style=flat&logo=windowsterminal" alt="Portfolio"/>
       </a>
-      <a href="https://twitter.com/tgmarinho" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=twitter" alt="twitter"/>  
-      </a>
-      <a href="https://linkedin.com/in/tgmarinho" target="_blank">
+      <a href="https://linkedin.com/in/glaucopereira" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
       </a>
       <a href="https://instagram.com/tgmarinho" target="_blank">
