@@ -1,28 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo de Link em Nova Aba no GitHub</title>
+</head>
+<body>
+  <h3> Glauco Pereira 💻 </h3>
+  <h4>Estudante de desenvolvimento - BackEnd | FullStack</h4>
 
- <h3> Glauco Pereira 💻 </h3>
- <h4>Estudante de desenvolvimento - BackEnd | FullStack</h4>
-   
- <p align="left" style="background:yellow">
-      <a href="https://glaucopereira.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-Glauco_Pereira-05122A?style=flat&logo=windowsterminal" alt="Portfolio"/>
-      </a>
-      <a href="https://linkedin.com/in/glaucopereira" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-      </a>
-      <a href="https://instagram.com/tgmarinho" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=instagram" alt="instagram"/>
-      </a>
-      <a href="https://youtube.com/tgmarinho" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=youtube" alt="youtube"/>
-      </a>
-  </p>
-      </a>
+  <p id="linkExterno" align="left" style="background:yellow">
+       <a href="https://glaucopereira.com" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/-Glauco_Pereira-05122A?style=flat&logo=windowsterminal" alt="Portfolio"/>
+       </a>
+       <a href="https://linkedin.com/in/glaucopereira" target="_blank">
+         <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+       </a>
+       <a href="https://instagram.com/tgmarinho" target="_blank">
+       <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=instagram" alt="instagram"/>
+       </a>
+       <a href="https://youtube.com/tgmarinho" target="_blank">
+       <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=youtube" alt="youtube"/>
+       </a>
+   </p>
+
+
+   👋🏻 Em desenvolvimento
+     
+     🚀 😃
+
  
-👋🏻 Hey there! I'm a software engineer who's really into TypeScript/JavaScript, React, Next.js, GraphQL and everything else that comes with it like React Native, Node.js. 
-I'm always on the lookout for the latest tools and tech in the industry, so I can keep delivering awesome, top-notch solutions that go beyond what's expected.
 
-With two years of hands-on experience in the Web3 and NFT marketplace domain, I've been actively involved in developing projects on top of the WAX and Ethereum platforms. My expertise extends to building robust indexers, SDKs, frontend apps, and APIs, showcasing my comprehensive understanding of this rapidly evolving field.
+  <script>
+  document.getElementById('linkExterno').addEventListener('click', function(event) {
+      event.preventDefault();
+      window.open(this.getAttribute('href'), '_blank');
+  });
+  </script>
+</body>
+</html>
 
-I actively participate in open-source projects, engaging in discussions to enhance ongoing tasks and contributing to the community by submitting pull requests. I'm always eager to collaborate and help drive improvements in these collaborative environments.
-  
-  🚀 😃
+
+ 
+   
+
+      
+ 
