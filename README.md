@@ -13,14 +13,14 @@
          <img align="center" src="https://img.shields.io/badge/-Glauco_Pereira-05122A?style=flat&logo=windowsterminal" alt="Portfolio"/>
        </a>
        <a href="https://linkedin.com/in/glaucopereira" target="_blank">
-         <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+         <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
        </a>
-       <a href="https://instagram.com/tgmarinho" target="_blank">
+       <!--<a href="https://instagram.com/tgmarinho" target="_blank">
        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=instagram" alt="instagram"/>
        </a>
        <a href="https://youtube.com/tgmarinho" target="_blank">
        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=youtube" alt="youtube"/>
-       </a>
+       </a>-->
    </p>
 
 
