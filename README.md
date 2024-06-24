@@ -12,7 +12,7 @@ Estou comprometido em aplicar minhas habilidades analíticas e minha paixão pel
 ### Entre em contato comigo! 📭
 <div>
   <a href="https://glaucopereira.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-e4e4e4?style=for-the-badge&logo=educative&logoColor=262626" target="_blank"></a>
-  <a href="mailto:eu@glaucopereira.com?subject=Podemos conversar?&body=Olá Glauco," target="_blank"><img src="https://img.shields.io/badge/E-mail-00A1F1?style=for-the-badge&logo=mailgun&logoColor=white" target="_blank"></a>
+  <a href="mailto:eu@glaucopereira.com?subject=Podemos conversar?&body=Olá Glauco," target="_blank"><img src="https://img.shields.io/badge/Mail-00A1F1?style=for-the-badge&logo=mailgun&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/glaucopereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/gpereirajpa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
