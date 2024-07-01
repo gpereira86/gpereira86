@@ -4,6 +4,8 @@ Olá :wave:! Eu sou Glauco Pereira :person_bald:
 
 Sou formado em Administração de Empresas 🎓 e estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) 💻.
 
+Em busca de uma transição de carreira para Área de Desenvolvimento :desktop_computer:.
+
 Estive em uma jornada de 18 anos e 11 meses em uma empresa de grande porte, onde subi degrau a degrau de operador de atendimento até analista de informações gerenciais pleno, passando pelos mais variados setores desta empresa adquiri muitos conhecimentos que me trouxeram até aqui, onde inicio uma transição de carreira para área de Desenvolvimento :woman_technologist:	.
 
 Estou comprometido em aplicar minhas habilidades analíticas e minha paixão pela tecnologia em novos desafios, buscando contribuir para o desenvolvimento de soluções inovadoras e eficientes. Busco atuar com Desenvolvimento Backend, mas estou receptivo a qualquer Área de atuação dentro do segmento :fist_right::fist_left:.
